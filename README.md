@@ -62,44 +62,6 @@ This repository provides a **beginner-to-master** guide for building scalable an
 
 ---
 
-2️⃣ Install dependencies
 
-flutter pub get
-
-3️⃣ Run the app
-flutter run
-
-🧑‍💻 For Beginners
-New to GetX? Start here:
-
-Open main.dart and explore navigation setup
-
-Check controllers/ to understand state logic
-
-Play with counters, dialogs, and bottom nav
-
-Modify themes or language from UI buttons
-
-💡 Advanced Concepts
-Navigate with arguments
-
-Protect routes with middlewares
-
-Share state between multiple screens
-
-Use services globally with Get.find()
-
-📚 Resources
-Official GetX Docs
-
-GetX GitHub
-
-GetStorage Docs
-
-🙌 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or improve.
-
-🛡️ License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
