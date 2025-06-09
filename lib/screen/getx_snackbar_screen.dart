@@ -8,7 +8,7 @@ class GetxSnackbarScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Center(
+      body: Center (
         child: SizedBox(
           width: 260,
           child: ElevatedButton(
