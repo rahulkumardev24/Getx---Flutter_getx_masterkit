@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:getx_statemanagement/screen/fact%20api/fact_controller.dart';
-import 'package:getx_statemanagement/screen/fact%20api/service/api_service.dart';
 
 class CatsFactsScreen extends StatefulWidget {
   const CatsFactsScreen({super.key});
